@@ -7,3 +7,4 @@
 ## :pencil: Solutions
 * [Task 1 Solution](https://github.com/PengchengShi1220/VesselGrapher/blob/main/method_AIntropy_task1.pdf)
 * [Task 2 Solution](https://github.com/PengchengShi1220/VesselGrapher/blob/main/method_AIntropy_task2.pdf)
+* [CROWN Challenge Submission (Team AIntropy)](http://dx.doi.org/10.5281/zenodo.14565066)
